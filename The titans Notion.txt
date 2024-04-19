@@ -1,0 +1,42 @@
+﻿Nombre del proyecto: Not-Bills
+Integrantes:
+* Cruz Maya Yareli de Jesus
+* Jimenez Hernandez Cintya Nakari
+* Reyna Calva Karina
+* Hernandez Ariza Josue Emmanuel
+* Zuñiga Serrano Arantza Yoseline
+
+
+Descripción:
+Se creará una página HTML que represente un ejemplo de establecimiento que ofrecerá sus productos. Las ventas realizadas se guardarán automáticamente en una base de datos creada en Notion, lo que permitirá generar un registro detallado de los productos vendidos, las personas que han sido sus compradores. Además, se diseñará una plantilla de factura para visualizar la información de las ventas de manera clara y organizada.
+
+
+Objetivo general: Desarrollar un sistema de facturación para un establecimiento que gestione el control de los productos vendidos integrando Notion.
+Objetivos específicos:
+planteamiento del problema
+
+
+Funcionalidades:
+* Creación de facturas: Permitirá crear facturas personalizadas con el logotipo, información de contacto, detalles de productos y precios.
+
+
+* Gestión de clientes: Facilita el mantenimiento de una base de datos de clientes, incluyendo información como nombre, dirección, información de contacto y detalles de facturación.
+
+
+* Generación de reportes: Proporciona informes y análisis relacionados con las ventas, ingresos, pagos para tomar decisiones informadas.
+
+
+* Automatización de tareas: Puede incluir funciones de automatización, como la programación de facturas recurrentes, el envío automático de recordatorios de pago y la generación de facturas periódicas.
+
+
+Tecnologías:
+* HTML
+* JavaScript
+* API Notion
+
+
+Integraciones 
+Paypal
+Shopify
+Microsoft Office Suite
+Google Workspace
